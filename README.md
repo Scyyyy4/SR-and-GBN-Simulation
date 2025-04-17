@@ -1,6 +1,6 @@
 # Reliable Data Transfer Protocol (SR&GBN) Implementation
 
-**IERG3310 Lab1** - Implementation of a Selective Repeat (SR) Protocol in C
+**IERG3310 Lab1** - Implementation of a SR&GBN Protocol in C
 
 ## Overview
 
